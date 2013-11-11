@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh_CN</string>
+	<key>CFBundleDisplayName</key>
+	<string>飞友电话</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>icon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.feelyou.${PRODUCT_NAME:rfc1034identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIMainStoryboardFile</key>
+	<string>Storyboard</string>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>Partner</key>
+	<string>2088901860534134</string>
+	<key>Seller</key>
+	<string>2088901860534134</string>
+	<key>RSA private key</key>
+	<string>MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBANi377MBDDzWQD+IqK1Sc7V56u+HnM+cmZfgEzbIqqAetZbXBgvWMTbZ/AG5swsBtdsblOsoUUOWnn204A9/yiS2+v+jbGUVh+saxqUDz6Q1K3Pci+BOYobnFEjY8F6TSS0yzYP4gWQLuxWGyccBqgPJe+9aOwIi/vZfgrMC4+uLAgMBAAECgYBHlSHQf4UaRy57jdkhPr3HcJjAO4v5K2G0P6g5DTkGoH4cb7Oojzw8QO4zZ7IS7aKy175tmiiVaZe6L9deZzhOIjJV0i9BskVcGrTtOEQSy5f1VEH6u7hiwjx1pkhNns8Svw7ZbchdI/Gx7QPQ/tjP3DwyUzJst3poHKnRxn5ZsQJBAP4LElQzVJPJWnW6j0iUA9LHBx8pmEdKyjIZvBAyzrhTYTJ18yx3fTuiIXtIdTrOSKkflChQxFfmt/zgyhUwf2kCQQDaY0RU7BPuHkf7+ARPKZE6KalktUDmbXWBoIruNMg9rSd/m5Jl3QvKHYsad97ImVq7LQJ4hRf2dam98Vc6HqjTAkBwQDgjGGNAwfHEn2B8c1qVIfhVnq14ouVg6dodVjXdYIpMH64JcerWFLeyn7uc9lVI1XlDrxxysrGNfU4NutYxAkAdMNeZYlTnpzSIAYbR7gRzec4in/ek1Uy3nvXzESsS02pMLEdNRlalFX3ac9tbhOQT0Nhbs66YSvH9aZz3L9HxAkEA59dCBQHOv0hvlAbrclBYrQpAeifjC2H1jFUO3FixX6lIbeD2psbGgxHEBf+vMaKjgwU2yoJOIh7socXX3b+y+Q==</string>
+	<key>RSA public key</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/VMfothmW5mETHV5pAsKj9qYN5UWSv1Cb0EJo 5lrs/mZWH1sHk98c9BpzdDt0nySJX0Y1Awg1AQ8+PG+U2Wf3VfN/Q6Y5us3D5c19prl1IOOlfjUZ pcYvOZWyxejX/lnNfKSe89GsUkkS/z9UXAOqVvw0dXLwuJgYDLtzxgOUdwIDAQAB</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>FeelYou</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'feelyou' target in the 'feelyou' project
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#import "HttpUtils.h"
+#import "SharedInstance.h"
+#import <CoreData/CoreData.h>
+
+//日志开关
+//#define DLog( s, ... ) DLog( @"<%@:(%d)> %@", [[NSString stringWithUTF8String:__FILE__] lastPathComponent], __LINE__, [NSString stringWithFormat:(s), ##__VA_ARGS__] )
+
+#define DLog( s, ... )
